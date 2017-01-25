@@ -45,13 +45,6 @@ Usage of `UINavigationBar` or `UINavigationController` for navigation bar.
 
 Algorithm uses view controller hierarchy ([CVKHierarchySearcher](https://github.com/coverback/CVKHierarchySearcher)) to find navigation bar on the topmost view controller. First it checks the topmost controller's first level of subviews for `UINavigationBar`. If this fails, searches for topmost available `UINavigationController`. If that fails as well, shows from the status bar. Because of this logic, might work strangely with custom navigation bar replacements.
 
-## Installation
-
-AFMInfoBanner is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-    pod 'AFMInfoBanner'
-
 ## License
 
 AFMInfoBanner is available under the MIT license. See the LICENSE file for more info.
