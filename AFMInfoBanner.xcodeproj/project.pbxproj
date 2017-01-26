@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1609AF621E3963A90036A4A6 /* AFMInfoBanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 1609AF601E3963A90036A4A6 /* AFMInfoBanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1659BC6D1E39641B00E901F4 /* InfoBanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 1659BC6B1E39641B00E901F4 /* InfoBanner.h */; };
+		1659BC6D1E39641B00E901F4 /* InfoBanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 1659BC6B1E39641B00E901F4 /* InfoBanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1659BC6E1E39641B00E901F4 /* InfoBanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 1659BC6C1E39641B00E901F4 /* InfoBanner.m */; };
 		1659BC7A1E39699D00E901F4 /* CVKHierarchySearcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 1659BC771E39699D00E901F4 /* CVKHierarchySearcher.h */; };
 		1659BC7B1E39699D00E901F4 /* CVKHierarchySearcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 1659BC781E39699D00E901F4 /* CVKHierarchySearcher.m */; };
@@ -83,9 +83,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1609AF621E3963A90036A4A6 /* AFMInfoBanner.h in Headers */,
+				1659BC6D1E39641B00E901F4 /* InfoBanner.h in Headers */,
 				1659BC7C1E39699D00E901F4 /* ViewControllerHierarchy.h in Headers */,
 				1659BC7A1E39699D00E901F4 /* CVKHierarchySearcher.h in Headers */,
-				1659BC6D1E39641B00E901F4 /* InfoBanner.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
