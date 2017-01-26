@@ -1,7 +1,5 @@
 # AFMInfoBanner
 
-[![CI Status](http://img.shields.io/travis/ask-fm/AFMInfoBanner.svg?style=flat)](https://travis-ci.org/ask-fm/AFMInfoBanner)
-[![Version](https://img.shields.io/cocoapods/v/AFMInfoBanner.svg?style=flat)](http://cocoadocs.org/docsets/AFMInfoBanner)
 [![License](https://img.shields.io/cocoapods/l/AFMInfoBanner.svg?style=flat)](http://cocoadocs.org/docsets/AFMInfoBanner)
 [![Platform](https://img.shields.io/cocoapods/p/AFMInfoBanner.svg?style=flat)](http://cocoadocs.org/docsets/AFMInfoBanner)
 
